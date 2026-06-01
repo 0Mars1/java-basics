@@ -1,3 +1,4 @@
+package Lab1;
 /**
  * Lab Day 1: Bank Account and ATM Management
  * Purpose: Simulate ATM operations (balance check, deposit, withdrawal) using class separation.
